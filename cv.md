@@ -1,6 +1,6 @@
 # Kropyvnytska Oleksandra
 ***
-
+![Photo](./photo.jpeg)
 ## Contacts
 + **phone** +380674810442
 + **email:** stashakasha@gmail.com
@@ -25,6 +25,12 @@ I easily find a common language with people. I always try to find an individual 
 
 ## Code example:
 
+**Peak array index KATA from CODEWARS:** We need a function that can transform a string into a number. What ways of achieving this do you know?
+```
+const stringToNumber = function(str){
+  return Number(str);
+}
+```
 
 ## Experience:
 
